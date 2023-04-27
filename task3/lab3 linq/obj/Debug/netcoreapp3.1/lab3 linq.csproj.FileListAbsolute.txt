@@ -1,0 +1,37 @@
+F:\linq\ass\lab3 linq\lab3 linq\bin\Debug\netcoreapp3.1\lab3 linq.exe
+F:\linq\ass\lab3 linq\lab3 linq\bin\Debug\netcoreapp3.1\lab3 linq.deps.json
+F:\linq\ass\lab3 linq\lab3 linq\bin\Debug\netcoreapp3.1\lab3 linq.runtimeconfig.json
+F:\linq\ass\lab3 linq\lab3 linq\bin\Debug\netcoreapp3.1\lab3 linq.runtimeconfig.dev.json
+F:\linq\ass\lab3 linq\lab3 linq\bin\Debug\netcoreapp3.1\lab3 linq.dll
+F:\linq\ass\lab3 linq\lab3 linq\bin\Debug\netcoreapp3.1\lab3 linq.pdb
+F:\linq\ass\lab3 linq\lab3 linq\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+F:\linq\ass\lab3 linq\lab3 linq\bin\Debug\netcoreapp3.1\EntityFramework.dll
+F:\linq\ass\lab3 linq\lab3 linq\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+F:\linq\ass\lab3 linq\lab3 linq\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+F:\linq\ass\lab3 linq\lab3 linq\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\linq\ass\lab3 linq\lab3 linq\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\linq\ass\lab3 linq\lab3 linq\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+F:\linq\ass\lab3 linq\lab3 linq\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\linq\ass\lab3 linq\lab3 linq\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+F:\linq\ass\lab3 linq\lab3 linq\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+F:\linq\ass\lab3 linq\lab3 linq\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\linq\ass\lab3 linq\lab3 linq\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\linq\ass\lab3 linq\lab3 linq\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\linq\ass\lab3 linq\lab3 linq\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\linq\ass\lab3 linq\lab3 linq\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\linq\ass\lab3 linq\lab3 linq\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\linq\ass\lab3 linq\lab3 linq\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\linq\ass\lab3 linq\lab3 linq\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\linq\ass\lab3 linq\lab3 linq\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\linq\ass\lab3 linq\lab3 linq\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\linq\ass\lab3 linq\lab3 linq\obj\Debug\netcoreapp3.1\lab3 linq.csproj.AssemblyReference.cache
+F:\linq\ass\lab3 linq\lab3 linq\obj\Debug\netcoreapp3.1\lab3 linq.GeneratedMSBuildEditorConfig.editorconfig
+F:\linq\ass\lab3 linq\lab3 linq\obj\Debug\netcoreapp3.1\lab3 linq.AssemblyInfoInputs.cache
+F:\linq\ass\lab3 linq\lab3 linq\obj\Debug\netcoreapp3.1\lab3 linq.AssemblyInfo.cs
+F:\linq\ass\lab3 linq\lab3 linq\obj\Debug\netcoreapp3.1\lab3 linq.csproj.CoreCompileInputs.cache
+F:\linq\ass\lab3 linq\lab3 linq\obj\Debug\netcoreapp3.1\lab3 linq.csproj.CopyComplete
+F:\linq\ass\lab3 linq\lab3 linq\obj\Debug\netcoreapp3.1\lab3 linq.dll
+F:\linq\ass\lab3 linq\lab3 linq\obj\Debug\netcoreapp3.1\lab3 linq.pdb
+F:\linq\ass\lab3 linq\lab3 linq\obj\Debug\netcoreapp3.1\lab3 linq.genruntimeconfig.cache
+F:\linq\ass\lab3 linq\lab3 linq\obj\Debug\netcoreapp3.1\lab3_linq.Migrations.initi.resources
+F:\linq\ass\lab3 linq\lab3 linq\obj\Debug\netcoreapp3.1\lab3 linq.csproj.GenerateResource.cache
