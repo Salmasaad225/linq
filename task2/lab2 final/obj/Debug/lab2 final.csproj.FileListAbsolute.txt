@@ -1,0 +1,33 @@
+F:\linq\ass\lab2 linq\lab2 final\bin\Debug\lab2 final.exe.config
+F:\linq\ass\lab2 linq\lab2 final\bin\Debug\lab2 final.exe
+F:\linq\ass\lab2 linq\lab2 final\bin\Debug\lab2 final.pdb
+F:\linq\ass\lab2 linq\lab2 final\bin\Debug\EntityFramework.dll
+F:\linq\ass\lab2 linq\lab2 final\bin\Debug\EntityFramework.SqlServer.dll
+F:\linq\ass\lab2 linq\lab2 final\bin\Debug\EntityFramework.xml
+F:\linq\ass\lab2 linq\lab2 final\bin\Debug\EntityFramework.SqlServer.xml
+F:\linq\ass\lab2 linq\lab2 final\obj\Debug\lab2 final.csproj.AssemblyReference.cache
+F:\linq\ass\lab2 linq\lab2 final\obj\Debug\lab2_final.Form1.resources
+F:\linq\ass\lab2 linq\lab2 final\obj\Debug\lab2_final.Properties.Resources.resources
+F:\linq\ass\lab2 linq\lab2 final\obj\Debug\lab2 final.csproj.GenerateResource.cache
+F:\linq\ass\lab2 linq\lab2 final\obj\Debug\lab2 final.csproj.CoreCompileInputs.cache
+F:\linq\ass\lab2 linq\lab2 final\obj\Debug\lab2 final.csproj.CopyComplete
+F:\linq\ass\lab2 linq\lab2 final\obj\Debug\lab2 final.exe
+F:\linq\ass\lab2 linq\lab2 final\obj\Debug\lab2 final.pdb
+F:\linq\ass\lab2 linq\lab2 final\obj\Debug\lab2_final.Form2.resources
+F:\study iti\linq\ass\lab2 linq\lab2 final\bin\Debug\lab2 final.exe.config
+F:\study iti\linq\ass\lab2 linq\lab2 final\bin\Debug\lab2 final.exe
+F:\study iti\linq\ass\lab2 linq\lab2 final\bin\Debug\lab2 final.pdb
+F:\study iti\linq\ass\lab2 linq\lab2 final\bin\Debug\EntityFramework.dll
+F:\study iti\linq\ass\lab2 linq\lab2 final\bin\Debug\EntityFramework.SqlServer.dll
+F:\study iti\linq\ass\lab2 linq\lab2 final\bin\Debug\EntityFramework.xml
+F:\study iti\linq\ass\lab2 linq\lab2 final\bin\Debug\EntityFramework.SqlServer.xml
+F:\study iti\linq\ass\lab2 linq\lab2 final\obj\Debug\lab2 final.csproj.AssemblyReference.cache
+F:\study iti\linq\ass\lab2 linq\lab2 final\obj\Debug\lab2 final.csproj.SuggestedBindingRedirects.cache
+F:\study iti\linq\ass\lab2 linq\lab2 final\obj\Debug\lab2_final.Form1.resources
+F:\study iti\linq\ass\lab2 linq\lab2 final\obj\Debug\lab2_final.Form2.resources
+F:\study iti\linq\ass\lab2 linq\lab2 final\obj\Debug\lab2_final.Properties.Resources.resources
+F:\study iti\linq\ass\lab2 linq\lab2 final\obj\Debug\lab2 final.csproj.GenerateResource.cache
+F:\study iti\linq\ass\lab2 linq\lab2 final\obj\Debug\lab2 final.csproj.CoreCompileInputs.cache
+F:\study iti\linq\ass\lab2 linq\lab2 final\obj\Debug\lab2 final.csproj.CopyComplete
+F:\study iti\linq\ass\lab2 linq\lab2 final\obj\Debug\lab2 final.exe
+F:\study iti\linq\ass\lab2 linq\lab2 final\obj\Debug\lab2 final.pdb
