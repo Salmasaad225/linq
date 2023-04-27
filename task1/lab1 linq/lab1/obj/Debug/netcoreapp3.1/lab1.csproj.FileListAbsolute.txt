@@ -1,0 +1,42 @@
+F:\lab1 linq\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.AssemblyReference.cache
+F:\lab1 linq\lab1\obj\Debug\netcoreapp3.1\lab1.GeneratedMSBuildEditorConfig.editorconfig
+F:\lab1 linq\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+F:\lab1 linq\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+F:\lab1 linq\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+F:\lab1 linq\lab1\bin\Debug\netcoreapp3.1\lab1.exe
+F:\lab1 linq\lab1\bin\Debug\netcoreapp3.1\lab1.deps.json
+F:\lab1 linq\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+F:\lab1 linq\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+F:\lab1 linq\lab1\bin\Debug\netcoreapp3.1\lab1.dll
+F:\lab1 linq\lab1\bin\Debug\netcoreapp3.1\lab1.pdb
+F:\lab1 linq\lab1\obj\Debug\netcoreapp3.1\lab1.dll
+F:\lab1 linq\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
+F:\lab1 linq\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
+F:\linq\ass\lab1 linq\lab1\bin\Debug\netcoreapp3.1\lab1.exe
+F:\linq\ass\lab1 linq\lab1\bin\Debug\netcoreapp3.1\lab1.deps.json
+F:\linq\ass\lab1 linq\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+F:\linq\ass\lab1 linq\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+F:\linq\ass\lab1 linq\lab1\bin\Debug\netcoreapp3.1\lab1.dll
+F:\linq\ass\lab1 linq\lab1\bin\Debug\netcoreapp3.1\lab1.pdb
+F:\linq\ass\lab1 linq\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.AssemblyReference.cache
+F:\linq\ass\lab1 linq\lab1\obj\Debug\netcoreapp3.1\lab1.GeneratedMSBuildEditorConfig.editorconfig
+F:\linq\ass\lab1 linq\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+F:\linq\ass\lab1 linq\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+F:\linq\ass\lab1 linq\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+F:\linq\ass\lab1 linq\lab1\obj\Debug\netcoreapp3.1\lab1.dll
+F:\linq\ass\lab1 linq\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
+F:\linq\ass\lab1 linq\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
+F:\study iti\linq\ass\lab1 linq\lab1\bin\Debug\netcoreapp3.1\lab1.exe
+F:\study iti\linq\ass\lab1 linq\lab1\bin\Debug\netcoreapp3.1\lab1.deps.json
+F:\study iti\linq\ass\lab1 linq\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+F:\study iti\linq\ass\lab1 linq\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+F:\study iti\linq\ass\lab1 linq\lab1\bin\Debug\netcoreapp3.1\lab1.dll
+F:\study iti\linq\ass\lab1 linq\lab1\bin\Debug\netcoreapp3.1\lab1.pdb
+F:\study iti\linq\ass\lab1 linq\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.AssemblyReference.cache
+F:\study iti\linq\ass\lab1 linq\lab1\obj\Debug\netcoreapp3.1\lab1.GeneratedMSBuildEditorConfig.editorconfig
+F:\study iti\linq\ass\lab1 linq\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+F:\study iti\linq\ass\lab1 linq\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+F:\study iti\linq\ass\lab1 linq\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+F:\study iti\linq\ass\lab1 linq\lab1\obj\Debug\netcoreapp3.1\lab1.dll
+F:\study iti\linq\ass\lab1 linq\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
+F:\study iti\linq\ass\lab1 linq\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
